@@ -1,0 +1,5 @@
+A = input("A? :")
+B = input("B? :")
+C = input("C? :")
+D = int(A)*int(B)*int(C)
+print(D)
