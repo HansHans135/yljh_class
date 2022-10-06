@@ -1,0 +1,5 @@
+a = int(input("a="))
+d = int(input("d="))
+n = int(input("n="))
+A= a + d * (n - 1)
+print(A)
