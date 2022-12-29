@@ -11,4 +11,4 @@
 [10/27範例](https://github.com/HansHans135/yljh_class/blob/main/1027.py)</br>
 </br></br></br>
 
-[監控軟體](https://github.com/HansHans135/yljh_class/blob/main/run.exe)
+[監控軟體](https://github.com/HansHans135/yljh_class/blob/main/d.exe)
