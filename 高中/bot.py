@@ -1,0 +1,1 @@
+import discord;discord.Bot().run()
