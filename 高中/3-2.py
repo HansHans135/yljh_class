@@ -1,7 +1,6 @@
 import random
 import math
-n=random.randint(1,5)
-print(n)
+n=int(input("a"))
 
 a=math.factorial(n)
 print(a)

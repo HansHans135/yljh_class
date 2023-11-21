@@ -4,4 +4,4 @@ def f(n):
       a,b=b,a+b
     return a
 
-print(f(5))
+print(f(int(input())))
