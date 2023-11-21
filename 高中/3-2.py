@@ -1,4 +1,4 @@
-import random;import math;n=int(input("a"));a=math.factorial(n);print(a)
+import random,math;print(math.factorial(int(input("a"))))
 
 
 
