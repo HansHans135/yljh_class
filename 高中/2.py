@@ -11,8 +11,8 @@ print(A)
 #2
 """
 A=[0,0,0]
-A[0]=int(float("身高(cm): "))
-A[1]=int(float("體重(kg): "))
+A[0]=int(float(input("身高(cm): ")))
+A[1]=int(float(input("體重(kg): ")))
 A[2]=A[1]/((A[0]/100)**2)
 
 print(A[0])
